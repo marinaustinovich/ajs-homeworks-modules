@@ -1,0 +1,26 @@
+{
+  "name": "esm_homework",
+  "version": "1.0.0",
+  "description": "My homework about ESM",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-modules.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Marina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinaustinovich/ajs-homeworks-modules/issues"
+  },
+  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-modules#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
