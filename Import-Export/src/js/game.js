@@ -1,10 +1,11 @@
 import Character from './domain.js';
+
 console.log(Character);
 
 export default class Game {
-    start() {
-        console.log('game started');
-    }
+  start() {
+    console.log('game started');
+  }
 }
 
 export class GameSavingData {
